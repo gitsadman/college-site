@@ -1,0 +1,101 @@
+.slidersize {
+    width: 1320px;
+    height: 700px;
+
+}
+
+.carousel-inner img {
+    margin: auto;
+  }
+
+.button-size {
+    
+    width: 182px;
+    height: 56px
+    
+}
+
+#size {
+    width: 606px;
+    height: 190px;
+    margin-top: 260px;
+}
+
+.text-decoration {
+    text-decoration: none;
+}
+
+#card-text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 60px;
+}
+
+.text {
+    color: #777777;
+}
+
+.barsize {
+    min-height: 300px;
+    border-radius: 5px;
+    width: 80%;
+}
+.barcolor {
+   background-color: #289BDE; 
+}
+
+.textdecoration {
+    text-decoration: none;
+    
+}
+
+.readheight {
+    height: 300px;
+}
+
+.textbtn {
+    color: 
+    #289BDE;
+}
+
+.btnsize{
+    width: 199px;
+    height: 56px;
+}
+
+.cardradius {
+    border-radius: 5px;
+}
+
+
+.feedcolor {
+    background-color: #E8E8E8;
+
+}
+
+.borderradius {
+    border-radius: 5px;
+}
+
+footer {
+    height: 472px;
+    background-color: rgb(230, 136, 136);
+    color: #E8E8E8;
+}
+
+#icon {
+    width: 50px;
+    height: 25px;
+}
+
+@media screen and (max-width: 600px) {
+    #title_message {
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 10px auto 5px 20px;
+      width: 28%;
+      display: none;
+    }
+  }
